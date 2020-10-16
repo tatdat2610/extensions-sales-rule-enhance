@@ -1,5 +1,5 @@
 # extensions-customer-pricing
-    This module allow sort Cart Price Rules by most saving 
+    This module allows sort Cart Price Rules by most saving 
 
 ## Installation
     Go to root folder and run command
